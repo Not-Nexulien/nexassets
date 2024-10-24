@@ -64,5 +64,11 @@
             "tooltip": "Bedbug",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/bebugg.gif?raw=true"
         }
+    ],
+    "984101356455485530": [
+        {
+            "tooltip": "Marketable Plushie",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/scuk.png?raw=true"
+        }
     ]
 }
