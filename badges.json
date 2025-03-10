@@ -82,5 +82,39 @@
             "tooltip": "goofy cube",
             "badge": "https://github.com/Nexulien/assets/blob/main/badges/goofy_cube.png?raw=true"
         }
+    ],
+    "343383572805058560": [
+        {
+            "tooltip": "n",
+            "badge": "https://cdn.discordapp.com/emojis/1133428103495024671.webp?size=96&animated=true"
+        },
+        {
+            "tooltip": "e",
+            "badge": "https://cdn.discordapp.com/emojis/1133428047740141628.webp?size=96&animated=true"
+        },
+        {
+            "tooltip": "x",
+            "badge": "https://cdn.discordapp.com/emojis/1133428161565163560.webp?size=96&animated=true"
+        },
+        {
+            "tooltip": "u",
+            "badge": "https://cdn.discordapp.com/emojis/1133428144334970890.webp?size=96&animated=true"
+        },
+        {
+            "tooltip": "l",
+            "badge": "https://cdn.discordapp.com/emojis/1133428091977465876.webp?size=96&animated=true"
+        },
+        {
+            "tooltip": "i",
+            "badge": "https://cdn.discordapp.com/emojis/1133428072461373471.webp?size=96&animated=true"
+        },
+        {
+            "tooltip": "e",
+            "badge": "https://cdn.discordapp.com/emojis/1133428047740141628.webp?size=96&animated=true"
+        },
+        {
+            "tooltip": "n",
+            "badge": "https://cdn.discordapp.com/emojis/1133428103495024671.webp?size=96&animated=true"
+        }
     ]
 }
