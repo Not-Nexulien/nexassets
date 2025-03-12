@@ -126,5 +126,17 @@
             "tooltip": "silly",
             "badge": "https://github.com/Nexulien/assets/blob/main/badges/lyra.gif?raw=true"
         }
+    ],
+    "1242942329807966352": [
+        {
+            "tooltip": "Plural",
+            "badge": "https://github.com/Nexulien/assets/blob/main/badges/plural_flag.png?raw=true"
+        }
+    ],
+    "349581824751566848": [
+        {
+            "tooltip": "Plural",
+            "badge": "https://github.com/Nexulien/assets/blob/main/badges/plural_flag.png?raw=true"
+        }
     ]
 }
