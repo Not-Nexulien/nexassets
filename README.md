@@ -1,4 +1,4 @@
-# Nexulien Assets
+# Nexulien2 Assets
 
 Place for storing data and brand stuff about Nexulien :3
 
