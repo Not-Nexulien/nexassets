@@ -1,6 +1,6 @@
 # Nexulien2 Assets
 
-Place for storing data and brand stuff about Nexulien :3
+Place for storing data and brand stuff about Nexulien2 :3
 
 ## Color Scheme
 
