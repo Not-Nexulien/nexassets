@@ -45,5 +45,17 @@
       "link":"",
       "linkdesc":""
     }
+  ],
+  "854819626969333771": [
+    {
+      "tooltip": "silly",
+      "title": "",
+      "name":"",
+      "badge": "https://github.com/Nexulien/assets/blob/main/badges/lyra.gif?raw=true",
+      "description1": "This badge was granted to this user because theyre the owner of Nexulien",
+      "description2": "",
+      "link": "https://github.com/nexulien/nexulien",
+      "linkdesc": "Visit the Nexulien repo"
+    }
   ]
 }
