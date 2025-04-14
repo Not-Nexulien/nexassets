@@ -1,6 +1,6 @@
-# Nexulien2 Assets
+# NOT Nexulien Assets
 
-Place for storing data and brand stuff about Nexulien2 :3
+Place for storing data and brand stuff about [Not-Nexulien](https://github.com/defautluser0/Not-Nexulien) :3
 
 ## Color Scheme
 
