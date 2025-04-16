@@ -69,5 +69,15 @@
       "link": "",
       "linkdesc": ""
     }
-  ]
+  ],
+  "1248279932694691940": [
+    {
+      "tooltip": "scammer",
+      "title": "scammer alert",
+      "name": "",
+      "badge": "https://img.freepik.com/free-vector/stay-alert-safe-with-fraud-caution-sign-background-design_1017-50476.jpg",
+      "description": "this user is a scammer",
+      "description2": "do not trust",
+      "link": "",
+      "linkdesc": ""
 }
