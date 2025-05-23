@@ -30,7 +30,7 @@ jobs:
         target_sync_branch: main
         target_repo_token: ${{ secrets.PERSONAL_TOKEN }}
         upstream_sync_branch: main
-        upstream_sync_repo: Nexulien/Nexulien
+        upstream_sync_repo: Nexulien/assets
         # Optional: only needed if upstream repo is private
         # upstream_repo_access_token: ${{ secrets.UPSTREAM_REPO_SECRET }}
         test_mode: ${{ inputs.sync_test_mode }}
