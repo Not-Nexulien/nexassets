@@ -1,9 +1,6 @@
 # NOT Nexulien Assets
 
-Place for storing data and brand stuff about [Not-Nexulien](https://github.com/defautluser0/Not-Nexulien) :3
-
-> [!IMPORTANT]
-> All rights to our mascot, Lyra, go to Kuro, the original artist. Do not use any assets of Lyra without Kuro's permission.
+Place for storing data and brand stuff about [Not-Nexulien](https://github.com/Not-Nexulien/Not-Nexulien) :3
 
 ## Color Scheme
 
